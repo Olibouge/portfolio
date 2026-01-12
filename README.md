@@ -1,2 +1,0 @@
-# portfolio
-Motion design portfolio
