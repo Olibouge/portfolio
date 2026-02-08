@@ -36,12 +36,12 @@ body {
 
 /* Style the tab content */
 .tabcontent {
-  color: inherit;         /* Prend la même couleur que le texte parent */
-  text-decoration: none;  /* Supprime le soulignement */
   display: none;
   padding: 6px 12px;
   border: 1px solid #ccc;
   border-top: none;
   text-align: center;
+  color: inherit;         /* Prend la même couleur que le texte parent */
+  text-decoration: none;  /* Supprime le soulignement */
 }
 }
