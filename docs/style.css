@@ -1,6 +1,7 @@
 body {
   font-family: "Lato", sans-serif;
   font-weight: 700;
+  color: #000000;
 
   /* Style the tab */
 .tab {
@@ -37,8 +38,8 @@ body {
 /* Style the tab content */
 .tabcontent {
   display: none;
-  padding: 6px 12px;
-  border: 1px solid #ccc;
+  padding: 0px 0px;
+  border: 0px solid #ccc;
   border-top: none;
   text-align: center;
   color: inherit;         /* Prend la même couleur que le texte parent */
