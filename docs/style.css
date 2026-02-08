@@ -7,6 +7,8 @@ body {
   overflow: hidden;
   border: 0px solid #000000;
   background-color: #FFFFFF;
+  display: flex;
+  justify-content: center;
 }
 
 /* Style the buttons inside the tab */
@@ -14,9 +16,9 @@ body {
   font-family: "Lato", sans-serif;
   font-weight: 700;
   background-color: inherit;
-  float: center;
-  border: 10px;
-  outline: none;
+  float: left;
+  border: none;
+  outline: 1px;
   cursor: pointer;
   padding: 14px 16px;
   transition: 0.3s;
