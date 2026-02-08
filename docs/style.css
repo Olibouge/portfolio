@@ -7,6 +7,8 @@ body {
   overflow: hidden;
   border: 0px solid #000000;
   background-color: #FFFFFF;
+  place-items: center; /* Centers both directions at once */
+  height: 200px;
 }
 
 /* Style the buttons inside the tab */
