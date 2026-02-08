@@ -7,8 +7,6 @@ body {
   overflow: hidden;
   border: 0px solid #000000;
   background-color: #FFFFFF;
-  place-items: center; /* Centers both directions at once */
-  height: 200px;
 }
 
 /* Style the buttons inside the tab */
@@ -16,8 +14,8 @@ body {
   font-family: "Lato", sans-serif;
   font-weight: 700;
   background-color: inherit;
-  float: left;
-  border: none;
+  float: center;
+  border: 10px;
   outline: none;
   cursor: pointer;
   padding: 14px 16px;
